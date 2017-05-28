@@ -1,0 +1,50 @@
+p {
+	font-size: 20px;
+	font-family: "Indie Flower";
+}
+
+p.numberGuess {
+	font-size: 50px;
+	float: right;
+}
+
+#randomNumber {
+	font-family: 'Pacifico', cursive;
+	float: right;
+	font-size: 50px;
+	color: teal;
+	position: relative;
+	top: 150px;
+}
+
+#Amythyst {
+	width: 30%;
+	height: auto;
+	margin: 0;
+}
+
+#rose {
+	width: 30%;
+	height: auto;
+	margin: 0;
+}
+
+#foolsGold {
+	width: 34%;
+	height: auto;
+	margin: 0;
+}
+
+#titanium {
+	width: 25%;
+	height: auto;
+	margin: 0;
+}
+
+
+.numberGuess {
+	position: relative;
+	left: 50px;
+}
+
+
